@@ -13,6 +13,6 @@ Where:
 * output_file: The file to be submitted to Google
 
 ## Open points
-- [ ] Create documentation and fill with commentaries
+- [X] Create documentation and fill with commentaries
 - [ ] Complete the README.md with all details about this software
 - [ ] Reference this from the personal blog
